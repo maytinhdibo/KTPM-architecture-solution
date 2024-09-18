@@ -1,5 +1,5 @@
 # CASE STUDY 1
-Dưới đây là một chương trình đơn giản sử dụng `express.js` để rút gọn link. Chương trình có thể chưa hoàn toàn được tối ưu.
+Dưới đây là một chương trình đơn giản sử dụng `express.js`, có mục tiêu để rút gọn link. Chương trình có thể chưa hoàn toàn được tối ưu.
 
 ## Hướng dẫn cài đặt
 
