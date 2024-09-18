@@ -46,7 +46,6 @@ function create(id, url) {
     });
 }
 
-
 async function shortUrl(url) {
     while (true) {
         let newID = makeID(5);
