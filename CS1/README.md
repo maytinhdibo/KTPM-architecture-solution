@@ -2,13 +2,14 @@
 Dưới đây là một chương trình đơn giản sử dụng `express.js`, có mục tiêu để rút gọn link. Chương trình có thể chưa hoàn toàn được tối ưu.
 
 ## Hướng dẫn cài đặt
-
-    # Cài đặt các gói liên quan
-    $ npm install
-	# Tạo folder cho database
-	$ mkdir db
-	# Khởi chạy ứng dụng
-	$ npm start
+```sh
+# Cài đặt các gói liên quan
+$ npm install
+# Tạo folder cho database
+$ mkdir db
+# Khởi chạy ứng dụng
+$ npm start
+```
 
 ## Mô Tả
 | Endpoint | Phương thức | Mục tiêu
