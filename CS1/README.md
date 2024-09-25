@@ -20,5 +20,6 @@ $ npm start
 
 ## Yêu cầu
  - Tối ưu chương trình trên (nếu cảm thấy cần thiết)
+ - Triển khai thành web hoàn chỉnh (tuỳ chọn)
  - Thêm lớp persistent bằng cách sử dụng ORM (Object-Relational Mapping)
  - *Đánh giá* và *cải tiến* hiệu năng dựa trên một mẫu kiến trúc tuỳ chọn.
